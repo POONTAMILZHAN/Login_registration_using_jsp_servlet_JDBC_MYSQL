@@ -5,7 +5,7 @@
 
 <p align="">
   <a href="" rel="noopener">
- <img width=500px height=400px src="Sign-up.png" alt="Project logo"></a>
+ <img width=500px height=400px src="Sign-up.png" alt="Project logo">
  <img width=500px height=400px src="Sign-in.png" alt="Project logo"></a>
 </p>
 
@@ -148,14 +148,10 @@ Step:5
 ## 🔧 Running the tests <a name = "tests"></a>
 ### VALIDATION IMAGE 
 
- <img width=500px height=400px src="Congrats.png" alt="Project logo"></a>
- <img width=500px height=400px src="Wrong.png" alt="Project logo"></a>
-### Break down into end to end tests
-Explain what these tests test and why
+ <img width=500px height=400px src="Congrats.png" alt="Project logo">
+ <img width=500px height=400px src="Wrong.png" alt="Project logo">
 
-```
-Give an example
-```
+
 
 ## 🎈 Usage <a name="usage"></a>
 ```
