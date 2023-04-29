@@ -50,7 +50,7 @@ database.
 - In Registration form, we will have a form to fill all the details which will contain 
 name, username, password, address, contact number, etc.
 This form will help us to register with the application. They take all our details and 
-store it in a database.
+store it in a database
 
 ### ✍ which has the following fields:
 1. Name
