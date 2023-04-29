@@ -5,7 +5,7 @@
 
 <p align="">
   <a href="" rel="noopener">
- <img width=500px height=400px src="Sign-up.PNG" alt="Project logo">
+ <img width=500px height=400px src="./Sign-up.PNG" alt="Project logo">
  <img width=500px height=400px src="Sign-in.PNG" alt="Project logo"></a>
 </p>
 
