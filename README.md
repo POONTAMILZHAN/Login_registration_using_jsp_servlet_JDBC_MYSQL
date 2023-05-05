@@ -5,8 +5,8 @@
 
 <p align="">
   <a href="" rel="noopener">
- <img width=500px height=400px src="./Sign-up.PNG" alt="Project logo">
- <img width=500px height=400px src="Sign-in.PNG" alt="Project logo"></a>
+ <img width=500px height=400px src="./IMG/Sign-up.PNG" alt="Project logo">
+ <img width=500px height=400px src="./IMG/Sign-in.PNG" alt="Project logo"></a>
 </p>
 
 
@@ -148,8 +148,8 @@ Step:5
 ## 🔧 Running the tests <a name = "tests"></a>
 ### VALIDATION IMAGE 
 
- <img width=500px height=400px src="Congrats.PNG" alt="Project logo">
- <img width=500px height=400px src="Wrong.PNG" alt="Project logo">
+ <img width=500px height=400px src="./IMG/Congrats.PNG" alt="Project logo">
+ <img width=500px height=400px src="./IMG/Wrong.PNG" alt="Project logo">
 
 
 
@@ -177,8 +177,8 @@ Step:5
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./Servlet.PNG)
-![bg width:1000px](./Servlet1.PNG)
+![bg width:1000px](./IMG/Servlet.PNG)
+![bg width:1000px](./IMG/Servlet1.PNG)
 
 
 
