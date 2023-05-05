@@ -4,10 +4,13 @@
 # project-documentation
 
 <p align="">
-  <a href="" rel="noopener">
- <img width=500px height=400px src="repository/IMG/Sign-up.PNG" alt="Project logo">
- <img width=500px height=400px src="./IMG/Sign-in.PNG" alt="Project logo"></a>
+  
+  
+![sign-up](https://user-images.githubusercontent.com/113184861/236396222-c11566f7-072c-4344-882b-ab4762bc86c0.png)
+![sign-in](https://user-images.githubusercontent.com/113184861/236396248-5215297d-046b-4ca4-bc3f-e4926a54de7f.png)
+
 </p>
+
 
 
 <h3 align="center">Login_registration_using_jsp_servlet_JDBC_MYSQL</h3>
@@ -148,10 +151,9 @@ Step:5
 ## 🔧 Running the tests <a name = "tests"></a>
 ### VALIDATION IMAGE 
 
- <img width=500px height=400px src="./IMG/Congrats.PNG" alt="Project logo">
- <img width=500px height=400px src="./IMG/Wrong.PNG" alt="Project logo">
+![congrats png width=500px height=400px ](https://user-images.githubusercontent.com/113184861/236395464-e747786f-46a7-4f1a-8250-2a85f13fd2da.png)
 
-
+![wrong](https://user-images.githubusercontent.com/113184861/236395663-133551a0-ede4-40b5-8bcf-2f884ddd5684.png)
 
 ## 🎈 Usage <a name="usage"></a>
 ```
@@ -177,10 +179,11 @@ Step:5
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:500px](./IMG/Servlet.PNG)
-![bg width:500px](./IMG/Servlet1.PNG)
+
+![servlet](https://user-images.githubusercontent.com/113184861/236395924-285b4fb0-8727-4be9-b75b-93f192af50eb.png)
 
 
+![servlet1](https://user-images.githubusercontent.com/113184861/236395953-5ef1793b-779d-4637-b0d5-1a24fceb65df.png)
 
 ## ✍️ Authors <a name = "authors"></a>
 - [Poontamilzhan K](https://github.com/POONTAMILZHAN) - FSD
@@ -195,3 +198,17 @@ Step:5
  ## links References 🔗
  - [🔗 link 1 ](https://www.codewithmurad.com/2020/10/registration-login-form.html) -Website 
  - [🔗 link 2 ](https://www.bing.com/videos/search?q=reference+for+login+and+registration+using+jsp+servlets&docid=603486619291432072&mid=D63A4BCC29603D33137CD63A4BCC29603D33137C&view=detail&FORM=VIRE) -Youtube 
+## website images 
+
+![Screenshot 2023-03-18 095334](https://user-images.githubusercontent.com/113184861/236396425-9d0ac151-8280-458e-8252-f48548ddbba9.png)
+![Screenshot_20230226_102431](https://user-images.githubusercontent.com/113184861/236396571-05722e43-16f2-4a62-9478-0de36f09ab64.png)
+![Screenshot_20230226_102443](https://user-images.githubusercontent.com/113184861/236396589-8a509e38-0395-4669-9fe4-ce96ca04a721.png)
+![Screenshot_20230226_102457](https://user-images.githubusercontent.com/113184861/236396607-b2d175ec-f9f5-4be7-89fb-992e38ed84c3.png)
+![Screenshot_20230226_100600](https://user-images.githubusercontent.com/113184861/236396651-119c0532-c1a4-4f47-89af-d41461d7f7ef.png)
+![Screenshot_20230226_102509](https://user-images.githubusercontent.com/113184861/236396691-2753e9bb-5172-4cbe-93cb-6d1dc48a17b9.png)
+![Screenshot_20230226_102520](https://user-images.githubusercontent.com/113184861/236396751-e70d0629-02e4-484b-9196-f3b58d18e6f9.png)
+![Screenshot_20230226_102543](https://user-images.githubusercontent.com/113184861/236396758-961e2f27-ac49-47ca-953d-80f6d74416fa.png)
+
+
+
+
